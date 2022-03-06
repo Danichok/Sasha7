@@ -65,5 +65,4 @@ setInterval(() => {
     $('#number3').text(number3)
     $('#number2').text(number2)
     $('#number1').text(number1)
-    console.log(number1 + ' | ' + number2 + ' | ' + number3)
 }, 1500);
