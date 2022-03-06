@@ -1232,9 +1232,12 @@ a {
 }
 
 @media (max-width: 375px) {
+    .info__button button {
+        font-size: 17px;
+    }
     .adv__list_header {
         width: 340px;
-        left: -6%;
+        left: -8%;
     }
     .hiddend_text_desc {
         text-align: center;
