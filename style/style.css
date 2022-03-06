@@ -925,7 +925,7 @@ a {
 
 @media (max-width: 490px) {
     .header__body_title {
-        margin-top: 30px;
+        margin-top: 50px;
     }
     .info__contects p {
         margin-left: 30px;
@@ -1236,7 +1236,7 @@ a {
         padding-bottom: 23vh;
     }
     .footer_button {
-        font-size: 19px;
+        font-size: 18px;
         width: 80%;
     }
 }
@@ -1251,7 +1251,7 @@ a {
     }
     .adv__list_header {
         width: 340px;
-        left: -8%;
+        left: -11%;
     }
     .hiddend_text_desc {
         margin-left: 20px;
@@ -1319,6 +1319,6 @@ a {
         margin-bottom: 0px;
     }
     .header__body_down_block {
-        bottom: 180px;
+        bottom: 80px;
     }
 }
