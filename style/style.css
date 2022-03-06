@@ -1139,7 +1139,7 @@ a {
 
 @media (max-width: 450px) {
     .header__body_subtitle {
-        font-size: 16px;
+        font-size: 14px;
     }
     .header__body_join {
         font-size: 16px;
@@ -1214,7 +1214,6 @@ a {
         font-size: 24px;
     }
     .header__body_join {
-        font-size: 20px;
         line-height: 35px;
     }
     .footer_button {
@@ -1294,7 +1293,7 @@ a {
         left: calc(100vw - 335px);
     }
     .header {
-        background-position-x: 35%;
+        background-position-x: 50%;
     }
     .adv__item_text {
         font-size: 12px;
@@ -1319,6 +1318,6 @@ a {
         margin-bottom: 0px;
     }
     .header__body_down_block {
-        bottom: 80px;
+        bottom: 115px;
     }
 }
